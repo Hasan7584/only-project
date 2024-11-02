@@ -625,6 +625,7 @@ margin-top: 10px;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
+    margin-top: 100px;
   
 }
 .from {
@@ -640,13 +641,13 @@ margin-top: 10px;
     display: flex;
    height: 100%;
     padding: 5px 20px;
-    margin-left: 100px;
+    /* margin-left: 100px; */
 
 }
 .from-style{
     display: flex;
     flex-direction: column;
-margin-left: 100px;
+/* margin-left: 100px; */
 }
 
 .pic-move {
